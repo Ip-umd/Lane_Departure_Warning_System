@@ -1,7 +1,7 @@
 # Advanced Lane Lines Detection
 
-The goal of this project is to use traditional Computer Vision (i.e. non-machine learning)  
-techniques to develop an advanced and robust algorithm that can detect and track lane boundaries in a video.  
+The goal of this project is to use traditional Computer Vision (i.e. non-machine learning)
+techniques to develop an advanced and robust algorithm that can detect and track lane boundaries in a video.
 The pipeline highlighted below was designed to operate under the following scenarios:
 
 Assumptions:
